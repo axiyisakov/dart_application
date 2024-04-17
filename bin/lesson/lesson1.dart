@@ -1,6 +1,6 @@
 /*
 Created by Axmadjon Isaqov on 21:32:48 16.04.2024
-*© 2024 @axiydev 
+*© 2024 @axiydev
 */
 void main() {
   ///bu yerda [var] kyword yani o'zgaruvchi e'lon qilishdan oldin uni yozamiz va unga qiymat beramiz
